@@ -1,2 +1,2 @@
 # UERS
-This project is a University Exam Registration System developed using VB.NET.
+This project is a University Exam Registration System developed (still developing), using VB.NET. 
